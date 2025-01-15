@@ -22,3 +22,6 @@ A nivel local, la competencia con grandes cadenas de heladerías que ofrecen app
 
 ### Justificación del proyecto
 El desarrollo de FrostyTime permitirá a las heladerías ofrecer una solución digital que no solo mejore la experiencia del cliente, sino que también optimice sus procesos internos. La app contribuirá a la personalización del servicio, el aumento de las ventas mediante promociones estratégicas, y la creación de una base de datos sólida que respalde la toma de decisiones comerciales.
+
+## Análisis de requerimientos
+FrostyTime busca ser una plataforma integral que gestione toda la experiencia de compra de helados. Para lograr esto, se identifican los siguientes aspectos clave:
