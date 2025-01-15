@@ -3,8 +3,8 @@ En la actualidad, las heladerías buscan innovar para ofrecer una experiencia m�
 ## Propósito
 El propósito principal de FrostyTime es ofrecer una plataforma digital intuitiva y organizada que permita a los usuarios explorar, personalizar y disfrutar de la experiencia de elegir su helado favorito. Al centralizar la información en un espacio único, la app busca facilitar el acceso al catálogo de productos de la heladería, incluyendo detalles como sabores, toppings, precios, combos y promociones especiales. Además, pretende fortalecer la conexión entre la heladería y sus clientes mediante ofertas personalizadas y una experiencia de usuario atractiva.
 ### Objetivos
--Optimizar la experiencia de compra de helados: Proveer una plataforma que permita a los usuarios explorar fácilmente el menú, conocer las opciones disponibles y realizar pedidos de manera rápida y sencilla.
--Fomentar la creatividad y personalización: Brindar opciones para que los usuarios personalicen sus helados eligiendo toppings, combinaciones de sabores y presentaciones únicas.
--Aumentar la fidelización del cliente: Implementar un sistema de descuentos y promociones especiales en fechas clave, incentivando la repetición de compras.
--Facilitar la gestión para la heladería: Centralizar la información del menú y las promociones en una herramienta digital que sea fácil de actualizar y mantener.
--Impulsar el marketing digital: Crear un canal directo para comunicar novedades, ofertas y productos exclusivos a los clientes.
+-Optimizar la experiencia de compra de helados: Proveer una plataforma que permita a los usuarios explorar fácilmente el menú, conocer las opciones disponibles y realizar pedidos de manera rápida y sencilla.-
+-Fomentar la creatividad y personalización: Brindar opciones para que los usuarios personalicen sus helados eligiendo toppings, combinaciones de sabores y presentaciones únicas.-
+-Aumentar la fidelización del cliente: Implementar un sistema de descuentos y promociones especiales en fechas clave, incentivando la repetición de compras.-
+-Facilitar la gestión para la heladería: Centralizar la información del menú y las promociones en una herramienta digital que sea fácil de actualizar y mantener.-
+-Impulsar el marketing digital: Crear un canal directo para comunicar novedades, ofertas y productos exclusivos a los clientes.-
