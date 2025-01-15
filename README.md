@@ -19,3 +19,6 @@ El propósito principal de FrostyTime es ofrecer una plataforma digital intuitiv
 ### Definición del problema
 Las heladerías tradicionales enfrentan el reto de adaptarse a las demandas de un mercado digitalizado donde los consumidores buscan experiencias rápidas, personalizables y accesibles desde dispositivos móviles. Aunque los helados son un producto popular, muchas heladerías carecen de una plataforma digital que centralice la información sobre sus productos, promociones y servicios.
 A nivel local, la competencia con grandes cadenas de heladerías que ofrecen apps dedicadas deja en desventaja a las pequeñas y medianas heladerías que no cuentan con herramientas tecnológicas modernas. Esto genera una barrera para alcanzar una mayor visibilidad y fidelización del cliente.
+
+### Justificación del proyecto
+El desarrollo de FrostyTime permitirá a las heladerías ofrecer una solución digital que no solo mejore la experiencia del cliente, sino que también optimice sus procesos internos. La app contribuirá a la personalización del servicio, el aumento de las ventas mediante promociones estratégicas, y la creación de una base de datos sólida que respalde la toma de decisiones comerciales.
