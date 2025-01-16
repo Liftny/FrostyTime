@@ -1,19 +1,17 @@
 # FrostyTime
-En la actualidad, las heladerías buscan innovar para ofrecer una experiencia más personalizada y cómoda a sus clientes. Sin embargo, muchas de ellas carecen de una solución tecnológica que les permita gestionar de manera eficiente su catálogo de productos y ofertas, así como interactuar de forma directa con los usuarios. La creación de una app para heladerías surge como una solución a esta necesidad, permitiendo a los clientes explorar el menú de helados, consultar detalles como nombre, sabor, descripción, toppings disponibles, precios y combos. Además, la app incluirá funcionalidades para aplicar descuentos especiales en fechas clave, como días festivos o promociones específicas, incentivando así la compra y mejorando la experiencia del cliente. Esta herramienta digital no solo facilitará la elección de productos, sino que también fortalecerá la conexión entre la heladería y sus clientes, adaptándose a las exigencias del mercado actual
+En la actualidad, las heladerías buscan innovar para ofrecer una experiencia más personalizada y cómoda a sus clientes. Sin embargo, muchas de ellas carecen de una solución tecnológica que les permita gestionar de manera eficiente su catálogo de productos y ofertas, así como interactuar de forma directa con los usuarios. La creación de una app para heladerías surge como una solución a esta necesidad, permitiendo a los clientes explorar el menú de helados, consultar detalles como nombre, descripción (sabor), precios y combos. Además, la app incluirá funcionalidades para aplicar descuentos especiales en fechas clave, como días festivos o promociones específicas, incentivando así la compra y mejorando la experiencia del cliente. Esta herramienta digital no solo facilitará la elección de productos, sino que también fortalecerá la conexión entre la heladería y sus clientes, adaptándose a las exigencias del mercado actual
 
 ## Propósito
-El propósito principal de FrostyTime es ofrecer una plataforma digital intuitiva y organizada que permita a los usuarios explorar, personalizar y disfrutar de la experiencia de elegir su helado favorito. Al centralizar la información en un espacio único, la app busca facilitar el acceso al catálogo de productos de la heladería, incluyendo detalles como sabores, toppings, precios, combos y promociones especiales. Además, pretende fortalecer la conexión entre la heladería y sus clientes mediante ofertas personalizadas y una experiencia de usuario atractiva.
+El propósito principal de FrostyTime es ofrecer una plataforma digital intuitiva y organizada que permita a los usuarios explorar, personalizar y disfrutar de la experiencia de elegir su helado favorito. Al centralizar la información en un espacio único, la app busca facilitar el acceso al catálogo de productos de la heladería, incluyendo detalles como sabores, precios, combos y descuentos especiales. Además, pretende fortalecer la conexión entre la heladería y sus clientes mediante ofertas personalizadas y una experiencia de usuario atractiva.
 
 ### Objetivos
 -Optimizar la experiencia de compra de helados: Proveer una plataforma que permita a los usuarios explorar fácilmente el menú, conocer las opciones disponibles y realizar pedidos de manera rápida y sencilla.
 
--Fomentar la creatividad y personalización: Brindar opciones para que los usuarios personalicen sus helados eligiendo toppings, combinaciones de sabores y presentaciones únicas.
+-Fomentar la creatividad y personalización: Brindar opciones para que los usuarios personalicen sus helados eligiendo, combinaciones de sabores.
 
--Aumentar la fidelización del cliente: Implementar un sistema de descuentos y promociones especiales en fechas clave, incentivando la repetición de compras.
+-Aumentar la fidelización del cliente: Implementar un sistema de descuentos especiales en fechas clave, incentivando la repetición de compras.
 
--Facilitar la gestión para la heladería: Centralizar la información del menú y las promociones en una herramienta digital que sea fácil de actualizar y mantener.
-
--Impulsar el marketing digital: Crear un canal directo para comunicar novedades, ofertas y productos exclusivos a los clientes.
+-Facilitar la gestión para la heladería: Centralizar la información del menú y las descuentos en una herramienta digital que sea fácil de actualizar y mantener.
 
 ## Contexto del Problema
 ### Definición del problema
@@ -25,16 +23,15 @@ El desarrollo de FrostyTime permitirá a las heladerías ofrecer una solución d
 
 ## Análisis de requerimientos
 FrostyTime busca ser una plataforma integral que gestione toda la experiencia de compra de helados. Para lograr esto, se identifican los siguientes aspectos clave:
+
 #### 1. Requerimientos funcionales:
--Visualización de catálogo con detalles de productos (nombre, sabor, descripción, toppings, precios).
+-Visualización de catálogo con detalles de productos (nombre, sabor, descripción y precios).
 
--Opción de personalización de helados (combinación de sabores y toppings).
+-Opción de personalización de helados (combinación de sabores).
 
--Sistema de descuentos y promociones programables.
+-Sistema de descuentos.
 
--Compra en línea o reserva para recoger en tienda.
-
--Sistema de notificaciones para comunicar ofertas y novedades.
+-Compra en línea para recoger en tienda.
 
 #### 2. Requerimientos no funcionales:
 
@@ -45,5 +42,8 @@ FrostyTime busca ser una plataforma integral que gestione toda la experiencia de
 -Escalabilidad para incluir nuevas funciones o sucursales en el futuro.
 
 -Alta disponibilidad y rendimiento para garantizar una experiencia fluida.
+
+## Modelo Relacional en Mysql
+
 
 Hecho por: Cobos Angie, Delgado Kristhyn y Lainez Jael
