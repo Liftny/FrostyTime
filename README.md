@@ -44,6 +44,6 @@ FrostyTime busca ser una plataforma integral que gestione toda la experiencia de
 -Alta disponibilidad y rendimiento para garantizar una experiencia fluida.
 
 ## Modelo Relacional en Mysql
-
+Modelo realacional Frosty Time.png
 
 Hecho por: Cobos Angie, Delgado Kristhyn y Lainez Jael
