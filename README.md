@@ -24,7 +24,7 @@ El desarrollo de FrostyTime permitirá a las heladerías ofrecer una solución d
 ## Análisis de requerimientos
 FrostyTime busca ser una plataforma integral que gestione toda la experiencia de compra de helados. Para lograr esto, se identifican los siguientes aspectos clave:
 
-#### 1. Requerimientos funcionales:
+### 1. Requerimientos funcionales:
 -Visualización de catálogo con detalles de productos (nombre, sabor, descripción y precios).
 
 -Opción de personalización de helados (combinación de sabores).
@@ -33,7 +33,7 @@ FrostyTime busca ser una plataforma integral que gestione toda la experiencia de
 
 -Compra en línea para recoger en tienda.
 
-#### 2. Requerimientos no funcionales:
+### 2. Requerimientos no funcionales:
 
 -Interfaz amigable y responsiva, optimizada para dispositivos móviles.
 
@@ -45,6 +45,17 @@ FrostyTime busca ser una plataforma integral que gestione toda la experiencia de
 
 ## Modelo Relacional en Mysql
 ![image](https://github.com/user-attachments/assets/47659658-c60e-46a9-b723-dcb7a7e35b81)
+### Tablas Principales
+-Usuarios: Almacena información sobre los clientes.
 
+-Producto: Contiene detalles sobre los helados disponibles para la venta.
+
+-Pedido: Registra los pedidos realizados por los clientes.
+
+-Combos: Guarda la información de los combos disponibles, incluye precio y sabores de helado.
+
+-Producto_Pedido: Detalles específicos de cada pedido.
+
+-Combos_Pedido: Detalles específicos de cada pedido con combo.
 
 Hecho por: Cobos Angie, Delgado Kristhyn y Lainez Jael
