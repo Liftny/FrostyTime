@@ -45,3 +45,5 @@ FrostyTime busca ser una plataforma integral que gestione toda la experiencia de
 -Escalabilidad para incluir nuevas funciones o sucursales en el futuro.
 
 -Alta disponibilidad y rendimiento para garantizar una experiencia fluida.
+
+Hecho por: Cobos Angie, Delgado Kristhyn y Lainez Jael
