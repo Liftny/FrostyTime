@@ -12,7 +12,7 @@ El propósito principal de FrostyTime es proporcionar una plataforma digital int
 ### Objetivos.
 -Optimizar la administración del negocio: Brindar una plataforma que facilite el registro y control de productos, costos y empleados.‎ 
 
--Mejorar la organización del catálogo de helados: Permitir la clasificación de productos con detalles como sabor, toppings y precios.
+-Mejorar la organización del catálogo de helados: Permitir la clasificación de productos con detalles como sabor, toppings y precios.‎ 
 
 -Gestionar la base de clientes y empleados: Registrar información relevante sobre clientes con membresía y trabajadores con sus áreas de trabajo.
 
