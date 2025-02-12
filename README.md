@@ -34,7 +34,7 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 
 ### 2. Requerimientos no funcionales:
 
-Interfaz amigable y responsiva para facilitar su uso.
+-Interfaz amigable y responsiva para facilitar su uso.
 
 Seguridad en el manejo de datos del negocio.
 
