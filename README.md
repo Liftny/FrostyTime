@@ -45,7 +45,7 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 ## Modelo Relacional en Mysql.
 ![image](https://github.com/Liftny/FrostyTime/blob/main/Diagrama%20FrostyTime.png?raw=true)
 
-### Tablas Principales
+### Tablas Principales.
 -Trabajador: Registra detalles sobre los trabajadores, el número de cédula, nombre. área y horario.
 
 -Cliente: Registra la cédula, nombre teléfono, email y membresía.
