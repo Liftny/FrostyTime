@@ -4,9 +4,10 @@ En la actualidad, las heladerías necesitan herramientas digitales que faciliten
 ![image](https://github.com/user-attachments/assets/66d98d17-463d-4aa7-bf16-bc6b323091e8)
 
 
-
 ## Propósito.
 El propósito principal de FrostyTime es proporcionar una plataforma digital intuitiva y organizada que permita a los propietarios de heladerías centralizar la gestión de su negocio. La app busca facilitar el registro y control del catálogo de productos, incluyendo detalles como sabores, toppings, clasificación y precios. Además, permitirá la administración eficiente de clientes con membresía y la gestión del personal, mejorando así la operatividad del negocio.
+![image](https://github.com/user-attachments/assets/f3e93f88-56fb-4d40-be6e-64a39571d032)
+
 
 ### Objetivos.
 -Optimizar la administración del negocio: Brindar una plataforma que facilite el registro y control de productos, costos y empleados.
