@@ -36,7 +36,7 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 
 -Interfaz amigable y responsiva para facilitar su uso.
 
-Seguridad en el manejo de datos del negocio.
+-Seguridad en el manejo de datos del negocio.
 
 Escalabilidad para incluir nuevas funciones o sucursales en el futuro.
 
