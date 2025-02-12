@@ -1,7 +1,8 @@
 # FrostyTime.
 En la actualidad, las heladerías necesitan herramientas digitales que faciliten la gestión de su negocio de manera eficiente. Sin embargo, muchas de ellas carecen de una solución tecnológica que les permita organizar y administrar su catálogo de productos, base de clientes, empleados y costos de producción. La creación de una app especializada para propietarios de heladerías surge como una respuesta a esta necesidad, permitiendo registrar y gestionar nombres de helados, sabores, toppings, clasificación de productos, precios de producción y de venta, así como información sobre clientes con membresía y trabajadores con sus respectivas áreas de trabajo. Esta herramienta digital optimizará la administración del negocio, facilitando la toma de decisiones y mejorando la organización interna de la heladería.
 
-![image](https://github.com/user-attachments/assets/086a38e3-6e2c-4243-b551-f3f29eb21818)
+![image](https://github.com/user-attachments/assets/66d98d17-463d-4aa7-bf16-bc6b323091e8)
+
 
 
 ## Propósito.
