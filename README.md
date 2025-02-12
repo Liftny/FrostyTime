@@ -20,7 +20,7 @@ Las heladerías tradicionales enfrentan dificultades en la gestión eficiente de
 ### Justificación del proyecto.
 El desarrollo de FrostyTime permitirá a los propietarios de heladerías contar con una solución digital para optimizar la gestión de su negocio. La app facilitará la organización del catálogo de productos, el control de costos y la administración del personal y clientes. Esto contribuirá a una mejor planificación estratégica y a una mayor eficiencia operativa.
 
-## Análisis de requerimientos
+## Análisis de requerimientos.
 FrostyTime busca ser una plataforma integral para la gestión de heladerías. Para lograr esto, se identifican los siguientes aspectos clave:
 
 ### 1. Requerimientos funcionales:
