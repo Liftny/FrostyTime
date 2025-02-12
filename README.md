@@ -43,18 +43,19 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 -Alta disponibilidad y rendimiento para garantizar una experiencia fluida.
 
 ## Modelo Relacional en Mysql
-![image](https://github.com/user-attachments/assets/47659658-c60e-46a9-b723-dcb7a7e35b81)
+![image](https://github.com/Liftny/FrostyTime/blob/main/Diagrama%20FrostyTime.png?raw=true)
+
 ### Tablas Principales
--Usuarios: Almacena información sobre los clientes.
+-Trabajador: Registra detalles sobre los trabajadores, el número de cédula, nombre. área y horario.
 
--Producto: Contiene detalles sobre los helados disponibles para la venta.
+-Cliente: Registra la cédula, nombre teléfono, email y membresía.
 
--Pedido: Registra los pedidos realizados por los clientes.
+-Sabor: Registra el código, nombre, costo de producción y precio de venta.
 
--Combos: Guarda la información de los combos disponibles, incluye precio y sabores de helado.
+-Factura: Contiene el id de la factura, fecha, cédula del cliente, código del helado, código de los toppings, código del sabor y el total.
 
--Producto_Pedido: Detalles específicos de cada pedido.
+-Helado: Registra detalles sobre los helados que se van creando en la heladería (código del helado, nombre, categoría y precio de venta).
 
--Combos_Pedido: Detalles específicos de cada pedido con combo.
+-Toppings: Registra los toppings para almacenarlos (código ¿, nombre, categoría y precio venta).
 
 Hecho por: Cobos Angie, Delgado Kristhyn y Lainez Jael
