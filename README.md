@@ -40,7 +40,7 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 
 -Escalabilidad para incluir nuevas funciones o sucursales en el futuro.
 
-Alta disponibilidad y rendimiento para garantizar una experiencia fluida.
+-Alta disponibilidad y rendimiento para garantizar una experiencia fluida.
 
 ## Modelo Relacional en Mysql
 ![image](https://github.com/user-attachments/assets/47659658-c60e-46a9-b723-dcb7a7e35b81)
