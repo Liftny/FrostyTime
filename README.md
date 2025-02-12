@@ -57,7 +57,7 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 
 -Sabor: Registra el código, nombre, costo de producción y precio de venta.
 
--Factura: Contiene el id de la factura, fecha, cédula del cliente, código del helado, código de los toppings, código del sabor y el total.
+-Factura: Contiene el id de la factura, fecha, cédula del cliente, código del helado, código de los toppings, código del sabor y el total.‎ 
 
 -Helado: Registra detalles sobre los helados que se van creando en la heladería (código del helado, nombre, categoría y precio de venta).‎ 
 
