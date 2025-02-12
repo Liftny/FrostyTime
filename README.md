@@ -30,7 +30,7 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 
 -Administración de empleados y sus áreas de trabajo.
 
-Generación de reportes de costos y precios.
+-Generación de reportes de costos y precios.
 
 ### 2. Requerimientos no funcionales:
 
