@@ -20,7 +20,7 @@ El propósito principal de FrostyTime es proporcionar una plataforma digital int
 
 ## Contexto del Problema.
 ### Definición del problema.
-Las heladerías tradicionales enfrentan dificultades en la gestión eficiente de sus productos, costos y personal, lo que puede afectar su operatividad y rentabilidad. Sin una herramienta digital adecuada, el registro de helados, toppings, precios y clientes puede volverse desorganizado e ineficiente. Además, la falta de un sistema centralizado para gestionar empleados y sus funciones dentro del negocio dificulta la asignación de tareas y el control del personal.
+Las heladerías tradicionales enfrentan dificultades en la gestión eficiente de sus productos, costos y personal, lo que puede afectar su operatividad y rentabilidad. Sin una herramienta digital adecuada, el registro de helados, toppings, precios y clientes puede volverse desorganizado e ineficiente. Además, la falta de un sistema centralizado para gestionar empleados y sus funciones dentro del negocio dificulta la asignación de tareas y el control del personal.‎ ‎ ‎ ‎ ‎ 
 
 ### Justificación del proyecto.
 El desarrollo de FrostyTime permitirá a los propietarios de heladerías contar con una solución digital para optimizar la gestión de su negocio. La app facilitará la organización del catálogo de productos, el control de costos y la administración del personal y clientes. Esto contribuirá a una mejor planificación estratégica y a una mayor eficiencia operativa.
