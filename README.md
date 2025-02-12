@@ -58,4 +58,4 @@ FrostyTime busca ser una plataforma integral para la gestión de heladerías. Pa
 
 -Toppings: Registra los toppings para almacenarlos (código ¿, nombre, categoría y precio venta).
 
-Hecho por: Cobos Angie, Delgado Kristhyn y Lainez Jael
+Hecho por: Cobos Angie, Delgado Kristhyn y Lainez Jael.
