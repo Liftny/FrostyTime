@@ -24,13 +24,13 @@ El desarrollo de FrostyTime permitirá a los propietarios de heladerías contar 
 FrostyTime busca ser una plataforma integral para la gestión de heladerías. Para lograr esto, se identifican los siguientes aspectos clave:
 
 ### 1. Requerimientos funcionales:
--Visualización de catálogo con detalles de productos (nombre, sabor, descripción y precios).
+Registro y clasificación de helados con detalles como sabor, toppings y precios de producción y venta.
 
--Opción de personalización de helados (combinación de sabores).
+Gestión de clientes con membresía.
 
--Sistema de descuentos.
+Administración de empleados y sus áreas de trabajo.
 
--Compra en línea para recoger en tienda.
+Generación de reportes de costos y precios.
 
 ### 2. Requerimientos no funcionales:
 
