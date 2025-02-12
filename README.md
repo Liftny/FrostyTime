@@ -11,7 +11,7 @@ El propósito principal de FrostyTime es proporcionar una plataforma digital int
 
 -Gestionar la base de clientes y empleados: Registrar información relevante sobre clientes con membresía y trabajadores con sus áreas de trabajo.
 
--Facilitar la toma de decisiones: Proporcionar información detallada sobre costos de producción y precios de venta para mejorar la rentabilidad.
+-Facilitar la toma de decisiones: Proporcionar información detallada sobre costos de producción y precios de venta para mejorar la rentabilidad
 
 ## Contexto del Problema.
 ### Definición del problema.
